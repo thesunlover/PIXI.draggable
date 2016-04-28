@@ -1,0 +1,29 @@
+{
+  "name": "pixi-draggable",
+  "version": "1.0.0",
+  "description": "The easiest way to get drag & drop done in PIXI.js!",
+  "main": "index.js",
+  "bin": {
+    "pixi-draggable": "pixi.draggable.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianNette/PIXI.draggable.git"
+  },
+  "keywords": [
+    "PIXI",
+    "PIXI.js",
+    "drag",
+    "draggable",
+    "dragging"
+  ],
+  "author": "Sebastian Nette",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/SebastianNette/PIXI.draggable/issues"
+  },
+  "homepage": "https://github.com/SebastianNette/PIXI.draggable#readme"
+}
